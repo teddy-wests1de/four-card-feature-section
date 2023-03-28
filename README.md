@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Frontend%20Mentor%20Four%20card%20feature%20section%20mobile.png.png)
+![](./images/Frontend%20Mentor%20Four%20card%20feature%20section%20mobile.png)
 ![](./images/Frontend%20Mentor%20Four%20card%20feature%20section%20desktop.png)
 
 ### Links
